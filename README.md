@@ -69,7 +69,7 @@ measure how close each executive is to their assigned targets.
 <h2>📷 Dashboard Preview</h2>
 
 <p align="center">
-<img src="dashboard.png" width="800">
+<img src="https://github.com/Omkar2304/Excel--Sales-Team-Performance-Dashboard/blob/f9abc94788e9aa9f81e24f0b649af4fdbd543c86/Sales%20Team%20Performance%20Dashboard.png" width="800">
 </p>
 
 <h2>📁 Repository Structure</h2>
